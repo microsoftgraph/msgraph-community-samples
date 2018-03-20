@@ -2,7 +2,7 @@
 
 This repository contains samples & tutorials that demonstrate different usage patterns for the Microsoft Graph API.
 
-# Have issues or questions?
+## Have issues or questions?
 
 Please do not open GitHub issues for general support questions as the GitHub list should be used for feature requests and bug reports. This way we can more easily track actual issues or bugs from the code and keep the general discussion separate from the actual code.
 
@@ -14,7 +14,7 @@ If you have questions about how to use the Microsoft Graph or any of the provide
 - [Microsoft Graph Documentation](https://developer.microsoft.com/en-us/graph/docs/concepts/overview)
 - [Microsoft Graph on Stack Exchange](https://stackoverflow.com/questions/tagged/microsoft-graph) with 'microsoft-graph' tag
 
-# Using the Samples
+## Using the Samples
 
 To build and start using these projects, you'll need to clone and build the projects.
 
