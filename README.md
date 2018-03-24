@@ -6,13 +6,13 @@ This repository contains samples & tutorials that demonstrate different usage pa
 
 Please do not open GitHub issues for general support questions as the GitHub list should be used for feature requests and bug reports. This way we can more easily track actual issues or bugs from the code and keep the general discussion separate from the actual code.
 
-If you have questions / issues with samples in this repository, use the [issues](/microsoftgraph/community-samples/issues) list.
+If you have questions / issues with samples in this repository, use the [issues](/microsoftgraph/msgraph-community-samples/issues) list.
 
 If you have questions about how to use the Microsoft Graph or any of the provided samples, please use the following locations.
 
 - [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
 - [Microsoft Graph Documentation](https://developer.microsoft.com/en-us/graph/docs/concepts/overview)
-- [Microsoft Graph on Stack Exchange](https://stackoverflow.com/questions/tagged/microsoft-graph) with 'microsoft-graph' tag
+- [Microsoft Graph on Stack Exchange](https://stackoverflow.com/questions/tagged/microsoft-graph) with `microsoft-graph` tag
 
 ## Using the Samples
 
@@ -21,13 +21,13 @@ To build and start using these projects, you'll need to clone and build the proj
 Clone this repository by executing the following command in your console:
 
 ```shell
-git clone https://github.com/microsoftgraph/community-samples.git
+git clone https://github.com/microsoftgraph/msgraph-community-samples.git
 ```
 
 Navigate to the cloned repository folder which should be the same as the repository name:
 
 ```shell
-cd community-samples
+cd msgraph-community-samples
 ```
 
 To access the samples use the following command, where you replace `sample-folder-name` with the name of the sample you want to access.

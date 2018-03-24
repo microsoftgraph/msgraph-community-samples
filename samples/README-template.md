@@ -1,6 +1,6 @@
 # TODO: title of the sample
 
-> *Update accordingly as needed.*
+> *TODO: Update accordingly as needed... remove this blockquote when submitting.*
 
 Short summary on functionality and used technologies.
 
@@ -8,27 +8,33 @@ Short summary on functionality and used technologies.
 
 ## Sample Details
 
-|                                             **Category**                                             |                             **Description**                              |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Technologies Used**                                                                                | C#, JavaScript, TypeScript, Node.js, Objective C, Swift, Java, JSON, etc |
-| **[Microsoft Graph SDK(s) Used](https://developer.microsoft.com/en-us/graph/code-samples-and-sdks)** | JavaScript SDK, Java SDK, etc                                            |
+|             **Category**             |                             **Description**                              |
+| ------------------------------------ | ------------------------------------------------------------------------ |
+| **Technologies Used**                | C#, JavaScript, TypeScript, Node.js, Objective C, Swift, Java, JSON, etc |
+| **[Microsoft Graph SDK(s) Used][1]** | JavaScript SDK, Java SDK, etc                                            |
 
 ## Applies to
 
 * [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
 * *TODO: Office 365 tenant? Azure subscription?*
 
-> *Update accordingly as needed.*
+> *TODO: Update accordingly as needed... remove this blockquote when submitting.*
 
 ## Prerequisites
 
-> *Update accordingly as needed.*
+> *TODO: Update accordingly as needed... remove this blockquote when submitting.*
 > *TODO: Office 365 tenant? Azure subscription?*
 
 ## Installation / Working Instructions
 
-> *Update accordingly as needed.*
+> *TODO: Update accordingly as needed... remove this blockquote when submitting.*
 > *TODO: provide detailed instructions how to get the sample working in a new environment*
+
+## Contributors
+
+| Roles  |           Author(s)           |
+| ------ | ----------------------------- |
+| Author | John Doe (Contoso) @microsoft |
 
 ## Version history
 
@@ -36,6 +42,10 @@ Version |       Date        |    Comments
 ------- | ----------------- | ---------------
 1.0     | August 29, 2000   | Initial release
 
+> *TODO: Update accordingly as needed... remove this blockquote when submitting.*
+
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+[1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
