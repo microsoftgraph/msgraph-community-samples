@@ -5,6 +5,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 ## Table of Contents
 
 - [Android](#android)
+- [Angular](#angular)
 
 ## Android
 
@@ -14,6 +15,12 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [android-java-snippets-rest](./android-java-snippets-rest) - Office 365 Meeting Feedback sample for Android
 - [android-java-snippets](./android-java-snippets) - Snippets Sample for Android Using the Microsoft Graph SDK
 
+## Angular
+
+- [angular-connect-rest](./angular-connect-rest) - Microsoft Graph Connect Sample for Angular 4
+- [angular-connect](./angular-connect) - Microsoft Graph Connect Sample for AngularJS (REST)
+- [angular-excelstarter](./angular-excelstarter) - Microsoft Graph Excel Starter Sample for Angular 4
+- [angular-snippets-rest](./angular-snippets-rest) - Microsoft Graph Snippets Sample for AngularJS (REST)
 
 ## Disclaimer
 
