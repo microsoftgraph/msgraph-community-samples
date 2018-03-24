@@ -43,9 +43,3 @@ Version |       Date        |    Comments
 1.0     | August 29, 2000   | Initial release
 
 > *TODO: Update accordingly as needed... remove this blockquote when submitting.*
-
-## Disclaimer
-
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
-[1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
