@@ -7,6 +7,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [Android](#android)
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
+- [Bot Framework](#bot-framework)
 
 ## Android
 
@@ -34,6 +35,12 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [aspnet-webhooks-rest](./aspnet-webhooks-rest) - Microsoft Graph ASP.NET Webhooks
 - [aspnetcore-apponlytoken-webhooks](./aspnetcore-apponlytoken-webhooks) - Microsoft Graph Webhooks Sample for ASP.NET Core
 - [aspnetcore-connect](./aspnetcore-connect) - Microsoft Graph Connect Sample for ASP.NET Core 2.0
+
+## Bot Framework
+
+- [botframework-csharp-excelbot-rest-sample](./botframework-csharp-excelbot-rest-sample) - Excel Bot
+- [botframework-csharp-graph-explorer](./botframework-csharp-graph-explorer) - BotFramework-CSharp-Graph-Explorer
+
 
 ## Disclaimer
 
