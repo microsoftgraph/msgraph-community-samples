@@ -14,9 +14,11 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [React](#react)
 - [Ruby](#ruby)
+- [Universal Windows Application (UWP)](#universal-windows-application-uwp)
 
 ## .NET Console App
 
@@ -92,6 +94,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [php-connect-sample](./php-connect-sample) - Microsoft Graph Connect Sample for PHP
 - [php-connect-rest-sample](./php-connect-rest-sample) - PHP Connect sample using Microsoft Graph
 
+## PowerShell
+
+- [powershell-intune](./powershell-intune) - PowerShell Intune Graph Samples
+
 ## Python
 
 - [python-auth](./python-auth) - Python Authentication Samples
@@ -109,6 +115,16 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 ## Ruby
 
 - [ruby-connect-rest](./ruby-connect-rest) - Microsoft Graph Ruby on Rails Connect Sample
+
+## Universal Windows Application (UWP)
+
+- [uwp-csharp-connect-rest](./uwp-csharp-connect-rest) - Microsoft Graph Connect Sample for UWP (REST)
+- [uwp-csharp-connect](./uwp-csharp-connect) - Microsoft Graph Connect Sample for UWP (Library)
+- [uwp-csharp-excel-snippets-rest](./uwp-csharp-excel-snippets-rest) - Excel REST API Explorer
+- [uwp-csharp-meetingbot](./uwp-csharp-meetingbot) - Microsoft Graph MeetingBot sample for UWP
+- [uwp-csharp-snippets](./uwp-csharp-snippets) - Microsoft Graph UWP Snippets Sample (SDK)
+- [uwp-csharp-snippets-rest](./uwp-csharp-snippets-rest) - Microsoft Graph UWP Snippets Sample (REST)
+
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
