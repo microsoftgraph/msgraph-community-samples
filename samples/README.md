@@ -4,11 +4,18 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 
 ## Table of Contents
 
+- [.NET Console App](#net-console-app)
 - [Android](#android)
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
-- [.NET Console App](#net-console-app)
+- [iOS / Apple Watch OS](#ios-apple-watch-os)
+
+## .NET Console App
+
+- [console-csharp-connect](./console-csharp-connect) - Microsoft Graph C# Console Connect Sample
+- [console-csharp-snippets](./console-csharp-snippets) - Microsoft Graph C# Console Snippets App
+- [consoleApp-deltaQuery-dotNet](./consoleApp-deltaQuery-dotNet) - ConsoleApp-MicrosoftGraphAPI-DeltaQuery-DotNet
 
 ## Android
 
@@ -42,11 +49,19 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [botframework-csharp-excelbot-rest](./botframework-csharp-excelbot-rest) - Excel Bot
 - [botframework-csharp-graph-explorer](./botframework-csharp-graph-explorer) - BotFramework-CSharp-Graph-Explorer
 
-## .NET Console App
+## iOS / Apple Watch OS
 
-- [console-csharp-connect](./console-csharp-connect) - Microsoft Graph C# Console Connect Sample
-- [console-csharp-snippets](./console-csharp-snippets) - Microsoft Graph C# Console Snippets App
-- [consoleApp-deltaQuery-dotNet](./consoleApp-deltaQuery-dotNet) - ConsoleApp-MicrosoftGraphAPI-DeltaQuery-DotNet
+- [ios-objectivec-apple-watch](./ios-objectivec-apple-watch) - Microsoft Graph and Apple Watch Sample
+- [ios-objectivec-connect-rest](./ios-objectivec-connect-rest) - Office 365 Connect Sample for iOS Using Microsoft Graph
+- [ios-objectivec-connect](./ios-objectivec-connect) - Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
+- [ios-objectivec-imagediscovery-rest](./ios-objectivec-imagediscovery-rest) - Office 365 Microsoft Graph Image Discovery for iOS
+- [ios-objectivec-profile-picture](./ios-objectivec-profile-picture) - Microsoft Graph SDK Profile Picture Sample for iOS
+- [ios-objectiveC-snippets](./ios-objectiveC-snippets) - Office 365 iOS Microsoft Graph Snippets
+- [ios-objectivec-snippets-rest](./ios-objectivec-snippets-rest) - Office 365 iOS Microsoft Graph Snippets
+- [ios-swift-connect](./ios-swift-connect) - Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
+- [ios-swift-connect-rest](./ios-swift-connect-rest) - Microsoft Office 365 Connect Sample for iOS Using Microsoft Graph (Swift)
+- [ios-swift-faceapi](./ios-swift-faceapi) - Microsoft Cognitive Services with Graph SDK Sample for iOS
+- [ios-swift-snippets](./ios-swift-snippets) - Microsoft Graph iOS Swift Snippets Sample
 
 ## Disclaimer
 
