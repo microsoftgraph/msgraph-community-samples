@@ -10,6 +10,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [iOS / Apple Watch OS](#ios-apple-watch-os)
+- [JavaScript](#javascript)
 
 ## .NET Console App
 
@@ -62,6 +63,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [ios-swift-connect-rest](./ios-swift-connect-rest) - Microsoft Office 365 Connect Sample for iOS Using Microsoft Graph (Swift)
 - [ios-swift-faceapi](./ios-swift-faceapi) - Microsoft Cognitive Services with Graph SDK Sample for iOS
 - [ios-swift-snippets](./ios-swift-snippets) - Microsoft Graph iOS Swift Snippets Sample
+
+## JavaScript
+
+- [javascript-officeuifabric-peoplepicker](./javascript-officeuifabric-peoplepicker) - Microsoft Graph Office UI Fabric JS PeoplePicker Sample
 
 ## Disclaimer
 
