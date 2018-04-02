@@ -6,6 +6,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 
 - [Android](#android)
 - [Angular](#angular)
+- [ASP.NET](#aspnet)
 
 ## Android
 
@@ -21,6 +22,18 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [angular-connect](./angular-connect) - Microsoft Graph Connect Sample for AngularJS (REST)
 - [angular-excelstarter](./angular-excelstarter) - Microsoft Graph Excel Starter Sample for Angular 4
 - [angular-snippets-rest](./angular-snippets-rest) - Microsoft Graph Snippets Sample for AngularJS (REST)
+
+## ASP.NET
+
+- [aspnet-connect](./aspnet-connect) - Microsoft Graph Connect Sample for ASP.NET 4.6
+- [aspnet-connect-rest](./aspnet-connect-rest) - Microsoft Graph Connect Sample for ASP.NET 4.6 (REST)
+- [aspnet-donations-rest](./aspnet-donations-rest) - Microsoft Graph Excel ASP.NET donations sample
+- [aspnet-excelstarter](./aspnet-excelstarter) - Microsoft Graph Excel Starter Sample for ASP.NET 4.6
+- [aspnet-snippets](./aspnet-snippets) - Microsoft Graph Snippets Sample for ASP.NET 4.6
+- [aspnet-todo-rest](./aspnet-todo-rest) - Microsoft Graph Excel REST API ASP.NET to-do list sample
+- [aspnet-webhooks-rest](./aspnet-webhooks-rest) - Microsoft Graph ASP.NET Webhooks
+- [aspnetcore-apponlytoken-webhooks](./aspnetcore-apponlytoken-webhooks) - Microsoft Graph Webhooks Sample for ASP.NET Core
+- [aspnetcore-connect](./aspnetcore-connect) - Microsoft Graph Connect Sample for ASP.NET Core 2.0
 
 ## Disclaimer
 
