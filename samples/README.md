@@ -15,6 +15,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [Python](#python)
+- [React](#react)
 
 ## .NET Console App
 
@@ -98,6 +99,11 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [python-open-extensions](./python-open-extensions) - Python console application for Microsoft Graph
 - [python-pagination](./python-pagination) - Working with paginated Microsoft Graph responses in Python
 - [python-send-mail](./python-send-mail) - Sending mail via Microsoft Graph from Python
+
+## React
+
+- [react-excelstarter](./react-excelstarter) - Microsoft Graph Excel Starter Sample for React
+- [react-officeuifabric](./react-officeuifabric) - Microsoft Graph Office UI Fabric React Sample
 
 ## Disclaimer
 
