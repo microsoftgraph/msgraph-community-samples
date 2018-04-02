@@ -16,6 +16,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [PHP](#php)
 - [Python](#python)
 - [React](#react)
+- [Ruby](#ruby)
 
 ## .NET Console App
 
@@ -105,6 +106,9 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [react-excelstarter](./react-excelstarter) - Microsoft Graph Excel Starter Sample for React
 - [react-officeuifabric](./react-officeuifabric) - Microsoft Graph Office UI Fabric React Sample
 
+## Ruby
+
+- [ruby-connect-rest](./ruby-connect-rest) - Microsoft Graph Ruby on Rails Connect Sample
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
