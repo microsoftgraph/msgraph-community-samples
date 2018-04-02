@@ -7,6 +7,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [.NET Console App](#net-console-app)
 - [Android](#android)
 - [Angular](#angular)
+- [Azure Web Job](#azure-web-job)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [Common Data Service](#common-data-service)
@@ -19,6 +20,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [React](#react)
 - [Ruby](#ruby)
 - [Universal Windows Application (UWP)](#universal-windows-application-uwp)
+- [Xamarin](#xamarin)
 
 ## .NET Console App
 
@@ -41,6 +43,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [angular-connect](./angular-connect) - Microsoft Graph Connect Sample for AngularJS (REST)
 - [angular-excelstarter](./angular-excelstarter) - Microsoft Graph Excel Starter Sample for Angular 4
 - [angular-snippets-rest](./angular-snippets-rest) - Microsoft Graph Snippets Sample for AngularJS (REST)
+
+## Azure Web Job
+
+- [webjobs-webhooks](./webjobs-webhooks) - Microsoft Graph Webhooks sample using WebJobs SDK
 
 ## ASP.NET
 
@@ -124,6 +130,12 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [uwp-csharp-meetingbot](./uwp-csharp-meetingbot) - Microsoft Graph MeetingBot sample for UWP
 - [uwp-csharp-snippets](./uwp-csharp-snippets) - Microsoft Graph UWP Snippets Sample (SDK)
 - [uwp-csharp-snippets-rest](./uwp-csharp-snippets-rest) - Microsoft Graph UWP Snippets Sample (REST)
+
+## Xamarin
+
+- [xamarin-csharp-connect](./xamarin-csharp-connect) - Microsoft Graph Connect Sample for Xamarin Forms
+- [xamarin-csharp-propertymanager](./xamarin-csharp-propertymanager) - Microsoft Graph Property Manager Sample for Xamarin Native
+- [xamarin-csharp-snippets](./xamarin-csharp-snippets) - Microsoft Graph SDK Snippets Library for Xamarin.Forms
 
 ## Disclaimer
 

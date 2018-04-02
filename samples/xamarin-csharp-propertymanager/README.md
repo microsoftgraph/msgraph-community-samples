@@ -1,14 +1,14 @@
-# Microsoft Graph Webhooks sample using WebJobs SDK
+# Microsoft Graph Property Manager Sample for Xamarin Native
 
-Create Microsoft Graph webhook subscriptions from a background application using Azure WebJobs, so that it can receive notifications of changes in a user’s organization data.
+Demonstrates how to use the Microsoft Graph as the only back-end component for a complete property management solution.
 
-> NOTE: See **[microsoftgraph/webjobs-webhooks-sample](https://github.com/microsoftgraph/webjobs-webhooks-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/xamarin-csharp-propertymanager-sample](https://github.com/microsoftgraph/xamarin-csharp-propertymanager-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |     Description      |
 | ------------------------------------ | -------------------- |
-| **Technologies Used**                | Azure Web Job, .NET  |
+| **Technologies Used**                | Xamarin Forms, MSAL  |
 | **[Microsoft Graph SDK(s) Used][1]** | .NET SDK (via NuGet) |
 
 ## Applies to

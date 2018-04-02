@@ -1,14 +1,14 @@
-# Microsoft Graph Webhooks sample using WebJobs SDK
+# Microsoft Graph SDK Snippets Library for Xamarin.Forms
 
-Create Microsoft Graph webhook subscriptions from a background application using Azure WebJobs, so that it can receive notifications of changes in a user’s organization data.
+Provides a repository of code snippets that use the Microsoft Graph to perform common tasks such as sending email, managing groups, and other activities from within a Xamarin.Forms app. This sample uses the Microsoft Graph .NET Client Library to work with data, and the Microsoft Authentication Library (MSAL) for authentication.
 
-> NOTE: See **[microsoftgraph/webjobs-webhooks-sample](https://github.com/microsoftgraph/webjobs-webhooks-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/xamarin-csharp-snippets-sample](https://github.com/microsoftgraph/xamarin-csharp-snippets-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |     Description      |
 | ------------------------------------ | -------------------- |
-| **Technologies Used**                | Azure Web Job, .NET  |
+| **Technologies Used**                | Xamarin Forms, MSAL  |
 | **[Microsoft Graph SDK(s) Used][1]** | .NET SDK (via NuGet) |
 
 ## Applies to

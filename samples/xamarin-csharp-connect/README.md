@@ -1,14 +1,14 @@
-# Microsoft Graph Webhooks sample using WebJobs SDK
+# Microsoft Graph Connect Sample for Xamarin Forms
 
-Create Microsoft Graph webhook subscriptions from a background application using Azure WebJobs, so that it can receive notifications of changes in a user’s organization data.
+This sample shows how to connect a Xamarin Forms app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API to send an email.
 
-> NOTE: See **[microsoftgraph/webjobs-webhooks-sample](https://github.com/microsoftgraph/webjobs-webhooks-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/xamarin-csharp-connect-sample](https://github.com/microsoftgraph/xamarin-csharp-connect-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |     Description      |
 | ------------------------------------ | -------------------- |
-| **Technologies Used**                | Azure Web Job, .NET  |
+| **Technologies Used**                | Xamarin Forms, MSAL  |
 | **[Microsoft Graph SDK(s) Used][1]** | .NET SDK (via NuGet) |
 
 ## Applies to
