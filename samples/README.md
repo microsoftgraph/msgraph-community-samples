@@ -8,6 +8,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
+- [.NET Console App](#net-console-app)
 
 ## Android
 
@@ -38,9 +39,14 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 
 ## Bot Framework
 
-- [botframework-csharp-excelbot-rest-sample](./botframework-csharp-excelbot-rest-sample) - Excel Bot
+- [botframework-csharp-excelbot-rest](./botframework-csharp-excelbot-rest) - Excel Bot
 - [botframework-csharp-graph-explorer](./botframework-csharp-graph-explorer) - BotFramework-CSharp-Graph-Explorer
 
+## .NET Console App
+
+- [console-csharp-connect](./console-csharp-connect) - Microsoft Graph C# Console Connect Sample
+- [console-csharp-snippets](./console-csharp-snippets) - Microsoft Graph C# Console Snippets App
+- [consoleApp-deltaQuery-dotNet](./consoleApp-deltaQuery-dotNet) - ConsoleApp-MicrosoftGraphAPI-DeltaQuery-DotNet
 
 ## Disclaimer
 
