@@ -13,6 +13,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [iOS / Apple Watch OS](#ios-apple-watch-os)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
+- [PHP](#php)
 
 ## .NET Console App
 
@@ -82,6 +83,12 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [nodejs-connect-rest](./nodejs-connect-rest) - Microsoft Graph Connect Sample for Node.js
 - [nodejs-sentiment-bot](./nodejs-sentiment-bot) - Microsoft Graph Sentiment Analysis Bot
 - [nodejs-webhooks-rest](./nodejs-webhooks-rest) - Microsoft Graph Webhooks Sample for Node.js
+
+## PHP
+
+- [php-connect-sample](./php-connect-sample) - Microsoft Graph Connect Sample for PHP
+- [php-connect-rest-sample](./php-connect-rest-sample) - PHP Connect sample using Microsoft Graph
+
 
 ## Disclaimer
 
