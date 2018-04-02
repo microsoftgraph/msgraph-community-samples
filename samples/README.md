@@ -14,6 +14,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
+- [Python](#python)
 
 ## .NET Console App
 
@@ -89,6 +90,14 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [php-connect-sample](./php-connect-sample) - Microsoft Graph Connect Sample for PHP
 - [php-connect-rest-sample](./php-connect-rest-sample) - PHP Connect sample using Microsoft Graph
 
+## Python
+
+- [python-auth](./python-auth) - Python Authentication Samples
+- [python-connect-rest](./python-connect-rest) - Microsoft Graph API Connect Sample for Python
+- [python-console-app](./python-console-app) - Python console application for Microsoft Graph
+- [python-open-extensions](./python-open-extensions) - Python console application for Microsoft Graph
+- [python-pagination](./python-pagination) - Working with paginated Microsoft Graph responses in Python
+- [python-send-mail](./python-send-mail) - Sending mail via Microsoft Graph from Python
 
 ## Disclaimer
 
