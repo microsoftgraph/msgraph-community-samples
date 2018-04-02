@@ -9,8 +9,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
+- [Common Data Service](#common-data-service)
 - [iOS / Apple Watch OS](#ios-apple-watch-os)
 - [JavaScript](#javascript)
+- [Node.js](#nodejs)
 
 ## .NET Console App
 
@@ -45,6 +47,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [aspnetcore-apponlytoken-webhooks](./aspnetcore-apponlytoken-webhooks) - Microsoft Graph Webhooks Sample for ASP.NET Core
 - [aspnetcore-connect](./aspnetcore-connect) - Microsoft Graph Connect Sample for ASP.NET Core 2.0
 
+## Common Data Service
+
+- [msgraph-cds-workrides](./msgraph-cds-workrides) - Build End-to-End Solutions Using Microsoft Graph and Common Data Service
+
 ## Bot Framework
 
 - [botframework-csharp-excelbot-rest](./botframework-csharp-excelbot-rest) - Excel Bot
@@ -67,6 +73,14 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 ## JavaScript
 
 - [javascript-officeuifabric-peoplepicker](./javascript-officeuifabric-peoplepicker) - Microsoft Graph Office UI Fabric JS PeoplePicker Sample
+
+## Node.JS
+
+- [nodejs-apponlytoken-rest](./nodejs-apponlytoken-rest) - Microsoft Graph Service Spp Sample using Node.js
+- [nodejs-connect](./nodejs-connect) - Microsoft Graph Connect Sample for Node.js
+- [nodejs-connect-rest](./nodejs-connect-rest) - Microsoft Graph Connect Sample for Node.js
+- [nodejs-sentiment-bot](./nodejs-sentiment-bot) - Microsoft Graph Sentiment Analysis Bot
+- [nodejs-webhooks-rest](./nodejs-webhooks-rest) - Microsoft Graph Webhooks Sample for Node.js
 
 ## Disclaimer
 
