@@ -2,7 +2,7 @@
 
 Use Microsoft Graph to access a user’s Microsoft account data from within an iOS app written in Swift. This sample uses REST calls directly to the Microsoft Graph endpoint, and uses the Microsoft Authentication LIbrary (MSAL) for authentication of users' work or school Office 365 accounts.
 
-> NOTE: See **[microsoftgraph/ios-objectivec-snippets-rest-sample](https://github.com/microsoftgraph/ios-objectivec-snippets-rest-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/ios-swift-connect-sample](https://github.com/microsoftgraph/ios-swift-connect-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
