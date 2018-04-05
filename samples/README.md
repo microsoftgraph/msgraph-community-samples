@@ -11,7 +11,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [ASP.NET](#aspnet)
 - [Bot Framework](#bot-framework)
 - [Common Data Service](#common-data-service)
-- [iOS / Apple Watch OS](#ios-apple-watch-os)
+- [iOS / Apple Watch OS](#ios--apple-watch-os)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
