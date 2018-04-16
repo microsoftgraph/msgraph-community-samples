@@ -36,3 +36,5 @@ This sample shows how to connect a Windows console application to a Microsoft wo
 | 1.0     | April 2, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/console-csharp-snippets)

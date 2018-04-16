@@ -36,3 +36,5 @@ This sample shows how to connect and Angular 4 app to a Microsoft work of school
 | 1.0     | March 24, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/angular-connect)

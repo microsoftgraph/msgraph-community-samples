@@ -36,3 +36,5 @@ Samples demonstrating how to work with Graph's paginated APIs in Python web apps
 | 1.0     | March 24, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-pagination)
