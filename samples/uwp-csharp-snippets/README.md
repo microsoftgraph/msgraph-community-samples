@@ -37,4 +37,4 @@ This sample shows how to use the Microsoft Graph SDK to send email, manage group
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-snippets)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-snippets" />

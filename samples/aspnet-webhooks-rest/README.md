@@ -37,4 +37,4 @@ Webhooks in Microsoft Graph notify your web application about changes in user da
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-webhooks-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-webhooks-rest" />

@@ -37,4 +37,4 @@ This sample shows how to connect a Windows console application to a Microsoft wo
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/console-csharp-connect)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/console-csharp-connect" />

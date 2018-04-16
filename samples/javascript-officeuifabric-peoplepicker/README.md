@@ -37,4 +37,4 @@ This sample demonstrates how to populate an Office UI Fabric JS PeoplePicker com
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/javascript-officeuifabric-peoplepicker)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/javascript-officeuifabric-peoplepicker" />

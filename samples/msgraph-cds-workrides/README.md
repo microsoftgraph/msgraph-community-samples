@@ -37,4 +37,4 @@ This sample show cases how professional developers can build people centric, dat
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/msgraph-cds-workrides)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/msgraph-cds-workrides" />

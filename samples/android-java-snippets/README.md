@@ -37,4 +37,4 @@ Code snippets that use the Microsoft Graph to perform common tasks, such as send
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/android-java-snippets)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/android-java-snippets" />

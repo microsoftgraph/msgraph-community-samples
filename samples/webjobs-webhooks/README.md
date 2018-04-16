@@ -37,4 +37,4 @@ Create Microsoft Graph webhook subscriptions from a background application using
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/webjobs-webhooks)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/webjobs-webhooks" />

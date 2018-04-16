@@ -38,4 +38,4 @@ Python authentication samples for Microsoft Graph.
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-auth)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-auth" />

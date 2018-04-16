@@ -38,4 +38,4 @@ PowerShell sample scripts show how to access Intune service resources. They demo
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/powershell-intune)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/powershell-intune" />

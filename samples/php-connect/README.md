@@ -37,4 +37,4 @@ Use Microsoft Graph to access a user’s Microsoft account data from within a PH
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/php-connect)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/php-connect" />

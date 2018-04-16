@@ -37,4 +37,4 @@ send email from Python via Microsoft Graph
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-send-mail)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-send-mail" />

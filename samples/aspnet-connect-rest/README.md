@@ -37,4 +37,4 @@ This ASP.NET MVC sample shows how to connect to Microsoft Graph and use the API 
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-connect-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-connect-rest" />

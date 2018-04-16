@@ -37,4 +37,4 @@ Samples demonstrating how to work with Graph's paginated APIs in Python web apps
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-pagination)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-pagination" />

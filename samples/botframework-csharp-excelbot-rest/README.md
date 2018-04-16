@@ -37,4 +37,4 @@ Excel Bot is a bot built with the Microsoft Bot Framework that demonstrates how 
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/botframework-csharp-excelbot-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/botframework-csharp-excelbot-rest" />

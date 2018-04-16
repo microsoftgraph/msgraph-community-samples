@@ -37,4 +37,4 @@ Use Microsoft Graph, Microsoft Cognitive Services, and the Microsoft Bot Framewo
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/nodejs-sentiment-bot)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/nodejs-sentiment-bot" />
