@@ -37,4 +37,4 @@ A repository of code snippets that use Microsoft Graph to perform common tasks s
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-snippets)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-snippets" />

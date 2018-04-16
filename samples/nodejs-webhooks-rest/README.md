@@ -37,4 +37,4 @@ Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can r
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/nodejs-webhooks-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/nodejs-webhooks-rest" />

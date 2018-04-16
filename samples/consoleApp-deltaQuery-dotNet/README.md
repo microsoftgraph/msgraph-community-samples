@@ -37,4 +37,4 @@ This console application demonstrates how to make Delta Query calls to the Graph
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/consoleApp-deltaQuery-dotNet)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/consoleApp-deltaQuery-dotNet" />

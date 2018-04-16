@@ -37,4 +37,4 @@ This sample shows how to read and write into an Excel document stored in your On
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-todo-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-todo-rest" />

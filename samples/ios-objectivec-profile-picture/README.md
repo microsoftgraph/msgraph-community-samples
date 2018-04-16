@@ -37,4 +37,4 @@ iOS Objective-C SDK sample for working with profile pictures in Microsoft Graph,
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-objectivec-profile-picture)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-objectivec-profile-picture" />

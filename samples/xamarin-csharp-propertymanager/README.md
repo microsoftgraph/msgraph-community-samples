@@ -37,4 +37,4 @@ Demonstrates how to use the Microsoft Graph as the only back-end component for a
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-propertymanager)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-propertymanager" />

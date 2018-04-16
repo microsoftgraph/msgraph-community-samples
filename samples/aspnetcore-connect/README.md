@@ -37,4 +37,4 @@ This ASP.NET Core 2.0 MVC sample shows how to connect to Microsoft Graph using d
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnetcore-connect)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnetcore-connect" />

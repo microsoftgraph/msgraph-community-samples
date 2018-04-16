@@ -37,4 +37,4 @@ A Universal Windows Platform application that demonstrates how to use Microsoft 
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-excel-snippets-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-excel-snippets-rest" />

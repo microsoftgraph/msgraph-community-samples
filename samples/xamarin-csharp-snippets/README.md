@@ -37,4 +37,4 @@ Provides a repository of code snippets that use the Microsoft Graph to perform c
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-snippets)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-snippets" />

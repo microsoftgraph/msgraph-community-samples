@@ -37,4 +37,4 @@ The Microsoft Graph Image Discovery sample allows you to take or search for an i
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-objectivec-imagediscovery-rest)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-objectivec-imagediscovery-rest" />

@@ -37,4 +37,4 @@ The Microsoft Graph Bot is a bot built with the Microsoft Bot Framework that all
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/botframework-csharp-graph-explorer)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/botframework-csharp-graph-explorer" />

@@ -37,4 +37,4 @@ This walkthrough shows you how to use the Office 365 Connected Services in Visua
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-connect)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-connect" />

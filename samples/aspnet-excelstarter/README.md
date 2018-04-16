@@ -37,4 +37,4 @@ This sample shows how to connect an ASP.NET web app to a Microsoft work or schoo
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-excelstarter)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnet-excelstarter" />

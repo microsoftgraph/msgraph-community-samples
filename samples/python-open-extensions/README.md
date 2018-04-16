@@ -37,4 +37,4 @@ How to work with Graph open extensions in Python.
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-open-extensions)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-open-extensions" />

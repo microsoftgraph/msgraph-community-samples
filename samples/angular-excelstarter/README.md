@@ -38,4 +38,4 @@ This sample shows how to connect an Angular 4.0 app to a Microsoft work or schoo
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/angular-excelstarter)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/angular-excelstarter" />

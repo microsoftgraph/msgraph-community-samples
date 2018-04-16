@@ -37,4 +37,4 @@ This sample shows how to subscribe for Microsoft Graph webhooks using applicatio
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnetcore-apponlytoken-webhooks)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/aspnetcore-apponlytoken-webhooks" />

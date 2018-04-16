@@ -37,4 +37,4 @@ Python sample for Microsoft Graph: send mail from console app.
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-console-app)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/python-console-app" />

@@ -37,4 +37,4 @@ This sample demonstrates how to integrate Microsoft Graph capabilities into a UW
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-meetingbot)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-meetingbot" />

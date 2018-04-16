@@ -37,4 +37,4 @@ iOS swift sample using Microsoft Graph and Microsoft Cognitive Service Face API 
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-swift-faceapi)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-swift-faceapi" />

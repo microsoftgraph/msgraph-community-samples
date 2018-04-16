@@ -37,4 +37,4 @@ This sample shows how to connect a Xamarin Forms app to a Microsoft work or scho
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-connect)
+<img src="https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/xamarin-csharp-connect" />
