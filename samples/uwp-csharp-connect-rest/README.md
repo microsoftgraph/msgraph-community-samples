@@ -36,3 +36,5 @@ This sample shows how to connect your Windows 10 Universal app to Office 365 usi
 | 1.0     | April 2, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/uwp-csharp-connect-rest)

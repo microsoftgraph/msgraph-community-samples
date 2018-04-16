@@ -36,3 +36,5 @@ iOS swift sample using Microsoft Graph and Microsoft Cognitive Service Face API 
 | 1.0     | April 2, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/ios-swift-faceapi)

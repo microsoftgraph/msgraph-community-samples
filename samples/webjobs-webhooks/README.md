@@ -1,15 +1,15 @@
-# Microsoft Graph C# Console Connect Sample
+# Microsoft Graph Webhooks sample using WebJobs SDK
 
-This sample shows how to connect a Windows console application to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API to send an email.
+Create Microsoft Graph webhook subscriptions from a background application using Azure WebJobs, so that it can receive notifications of changes in a user’s organization data.
 
-> NOTE: See **[microsoftgraph/console-csharp-connect-sample](https://github.com/microsoftgraph/console-csharp-connect-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/webjobs-webhooks-sample](https://github.com/microsoftgraph/webjobs-webhooks-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |     Description      |
 | ------------------------------------ | -------------------- |
-| **Technologies Used**                | .NET Framework 4.6.1 |
-| **[Microsoft Graph SDK(s) Used][1]** | .NET (via NuGet)     |
+| **Technologies Used**                | Azure WebJobs        |
+| **[Microsoft Graph SDK(s) Used][1]** | .NET SDK (via NuGet) |
 
 ## Applies to
 
@@ -33,8 +33,8 @@ This sample shows how to connect a Windows console application to a Microsoft wo
 
 | Version |     Date      |   Comments    |
 | ------- | ------------- | ------------- |
-| 1.0     | April 2, 2018 | Initial entry |
+| 1.0     | April 16, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
-![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/console-csharp-connect)
+![](https://telemetry.sharepointpnp.com/msgraph-community-samples/samples/webjobs-webhooks)
