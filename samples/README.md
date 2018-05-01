@@ -1,4 +1,4 @@
-# Microsoft Graph Samples
+`# Microsoft Graph Samples
 
 Samples around the Microsoft Graph API demonstrate different capabilities and possibilities with the API. Each sample has it's own dedicated readme file to explain setup instructions and demonstrated capability.
 
@@ -39,7 +39,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 
 ## Angular
 
-- [angular-connect-rest](./angular-connect-rest) -  Microsoft Graph Connect Sample for AngularJS (REST)
+- [angular-connect-rest](./angular-connect-rest) - Microsoft Graph Connect Sample for AngularJS (REST)
 - [angular-connect](./angular-connect) - Microsoft Graph Connect Sample for Angular 4
 - [angular-excelstarter](./angular-excelstarter) - Microsoft Graph Excel Starter Sample for Angular 4
 - [angular-snippets-rest](./angular-snippets-rest) - Microsoft Graph Snippets Sample for AngularJS (REST)
