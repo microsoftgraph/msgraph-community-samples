@@ -1,4 +1,4 @@
-`# Microsoft Graph Samples
+# Microsoft Graph Samples
 
 Samples around the Microsoft Graph API demonstrate different capabilities and possibilities with the API. Each sample has it's own dedicated readme file to explain setup instructions and demonstrated capability.
 
@@ -72,7 +72,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 ## iOS / Apple Watch OS
 
 - [ios-objectivec-apple-watch](./ios-objectivec-apple-watch) - Microsoft Graph and Apple Watch Sample
-- [ios-objectivec-connect-rest](./ios-objectivec-connect-rest) - Office 365 Connect Sample for iOS Using Microsoft Graph
+- [ios-objectivec-connect-rest](./ios-objectivec-connect-rest) - Office 365 Connect Sample for iOS Using Microsoft Graph REST API
 - [ios-objectivec-connect](./ios-objectivec-connect) - Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
 - [ios-objectivec-imagediscovery-rest](./ios-objectivec-imagediscovery-rest) - Office 365 Microsoft Graph Image Discovery for iOS
 - [ios-objectivec-profile-picture](./ios-objectivec-profile-picture) - Microsoft Graph SDK Profile Picture Sample for iOS

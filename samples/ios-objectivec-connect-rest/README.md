@@ -1,15 +1,15 @@
-# Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
+# Office 365 Connect Sample for iOS Using the Microsoft Graph REST API
 
 Use Microsoft Graph to access a user’s Microsoft account data from within an iOS app written in Objective C. This sample uses the Microsoft Graph Client Library to work with the data, and allows you to authenticate using work, school, and personal accounts.
 
-> NOTE: See **[microsoftgraph/ios-objectivec-connect-sample](https://github.com/microsoftgraph/ios-objectivec-connect-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/ios-objectivec-connect-rest-sample](https://github.com/microsoftgraph/ios-objectivec-connect-rest-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |         Description         |
 | ------------------------------------ | --------------------------- |
 | **Technologies Used**                | iOS, Objective-C, CocoaPods |
-| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                     |
+| **[Microsoft Graph SDK(s) Used][1]** | REST API                    |
 
 ## Applies to
 
@@ -31,9 +31,10 @@ Use Microsoft Graph to access a user’s Microsoft account data from within an i
 
 ## Version history
 
-| Version |     Date      |   Comments    |
-| ------- | ------------- | ------------- |
-| 1.0     | April 2, 2018 | Initial entry |
+| Version |     Date      |               Comments                |
+| ------- | ------------- | ------------------------------------- |
+| 1.1     | June 1, 2018  | Fixed wrong link to referenced sample |
+| 1.0     | April 2, 2018 | Initial entry                         |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 

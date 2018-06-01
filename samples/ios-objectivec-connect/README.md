@@ -2,14 +2,14 @@
 
 This sample shows how to connect your iOS app to Office 365 using the Microsoft Graph API to send an email.
 
-> NOTE: See **[microsoftgraph/ios-objectivec-connect-rest-sample](https://github.com/microsoftgraph/ios-objectivec-connect-rest-sample)** for the sample. This entry simply cross-references that sample.
+> NOTE: See **[microsoftgraph/ios-objectivec-connect-sample](https://github.com/microsoftgraph/ios-objectivec-connect-sample)** for the sample. This entry simply cross-references that sample.
 
 ## Sample Details
 
 |               Category               |      Description       |
 | ------------------------------------ | ---------------------- |
 | **Technologies Used**                | iOS, Objective-C, MSAL |
-| **[Microsoft Graph SDK(s) Used][1]** | REST API               |
+| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                |
 
 ## Applies to
 
@@ -31,9 +31,10 @@ This sample shows how to connect your iOS app to Office 365 using the Microsoft 
 
 ## Version history
 
-| Version |     Date      |   Comments    |
-| ------- | ------------- | ------------- |
-| 1.0     | April 2, 2018 | Initial entry |
+| Version |     Date      |               Comments                |
+| ------- | ------------- | ------------------------------------- |
+| 1.1     | June 1, 2018  | Fixed wrong link to referenced sample |
+| 1.0     | April 2, 2018 | Initial entry                         |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 
