@@ -1,6 +1,6 @@
-# Microsoft Graph Webhooks Sample for ASP.NET Core
+# Microsoft Graph Webhooks Sample for Microsoft Flow
 
-This sample shows how to subscribe to Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.
+This sample shows how to subscribe to Microsoft Graph webhooks using application (app-only) permissions and Microsoft Flow.
 
 ## Sample Details
 
@@ -11,6 +11,7 @@ This sample shows how to subscribe to Microsoft Graph webhooks using application
 ## Applies to
 
 * [Microsoft Graph](https://developer.microsoft.com/en-us/graph)
+* [Microsoft Flow](https://flow.microsoft.com/)
 
 ## Prerequisites
 
@@ -26,6 +27,13 @@ This sample shows how to subscribe to Microsoft Graph webhooks using application
 These set up a severless chain of MS Flows running forever listening to group change events in the tenant and synchronizing them to a SP List.
 
 A SharePoint list with at least Title and groupId field would be needed for the Sync Flow to be properly setup - when flow is configured, the missing columns are dropped.
+
+* Title (single line text)
+* groupId (single line text)
+* description (single line text)
+* visibility (single line text)
+* createdDateTime (datetime)
+* renewedDateTime (datetime)
 
 ## Contributors
 

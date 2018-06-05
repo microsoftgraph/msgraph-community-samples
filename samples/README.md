@@ -13,6 +13,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [Common Data Service](#common-data-service)
 - [iOS / Apple Watch OS](#ios--apple-watch-os)
 - [JavaScript](#javascript)
+- [Microsoft Flow](#microsoft-flow)
 - [Node.js](#nodejs)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -86,6 +87,10 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 ## JavaScript
 
 - [javascript-officeuifabric-peoplepicker](./javascript-officeuifabric-peoplepicker) - Microsoft Graph Office UI Fabric JS PeoplePicker Sample
+
+## Microsoft Flow
+
+- [flow-apponly-rest](./flow-apponly-rest) - Microsoft Flow - Groups REST HTTP Request and Webhook Subscriber/Listener
 
 ## Node.JS
 
