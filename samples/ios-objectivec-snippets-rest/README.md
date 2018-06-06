@@ -6,10 +6,10 @@ This sample shows how to use Microsoft Graph to send email, manage groups, and p
 
 ## Sample Details
 
-|               Category               |              Description              |
-| ------------------------------------ | ------------------------------------- |
-| **Technologies Used**                | iOS, Objective-C, CocoaPods, ADAL iOS |
-| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                               |
+|               Category               |        Description         |
+| ------------------------------------ | -------------------------- |
+| **Technologies Used**                | iOS, Objective-C, ADAL iOS |
+| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                    |
 
 ## Applies to
 
@@ -31,9 +31,10 @@ This sample shows how to use Microsoft Graph to send email, manage groups, and p
 
 ## Version history
 
-| Version |     Date      |   Comments    |
-| ------- | ------------- | ------------- |
-| 1.0     | April 2, 2018 | Initial entry |
+| Version |     Date      |               Comments                |
+| ------- | ------------- | ------------------------------------- |
+| 1.1     | June 6, 2018  | Fixed wrong technologies used listing |
+| 1.0     | April 2, 2018 | Initial entry                         |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 

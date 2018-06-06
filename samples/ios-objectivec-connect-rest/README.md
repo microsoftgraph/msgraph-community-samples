@@ -6,10 +6,10 @@ Use Microsoft Graph to access a user’s Microsoft account data from within an i
 
 ## Sample Details
 
-|               Category               |         Description         |
-| ------------------------------------ | --------------------------- |
-| **Technologies Used**                | iOS, Objective-C, CocoaPods |
-| **[Microsoft Graph SDK(s) Used][1]** | REST API                    |
+|               Category               |      Description       |
+| ------------------------------------ | ---------------------- |
+| **Technologies Used**                | iOS, Objective-C, MSAL |
+| **[Microsoft Graph SDK(s) Used][1]** | REST API               |
 
 ## Applies to
 
@@ -33,6 +33,7 @@ Use Microsoft Graph to access a user’s Microsoft account data from within an i
 
 | Version |     Date      |               Comments                |
 | ------- | ------------- | ------------------------------------- |
+| 1.2     | June 6, 2018  | Fixed wrong technologies used listing |
 | 1.1     | June 1, 2018  | Fixed wrong link to referenced sample |
 | 1.0     | April 2, 2018 | Initial entry                         |
 
