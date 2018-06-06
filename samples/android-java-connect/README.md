@@ -6,10 +6,10 @@ Use Microsoft Graph to access a user’s Microsoft account data from within an A
 
 ## Sample Details
 
-|               Category               |  Description  |
-| ------------------------------------ | ------------- |
-| **Technologies Used**                | Android, Java |
-| **[Microsoft Graph SDK(s) Used][1]** | Android       |
+|               Category               |      Description       |
+| ------------------------------------ | ---------------------- |
+| **Technologies Used**                | Android, Java, oidclib |
+| **[Microsoft Graph SDK(s) Used][1]** | Android                |
 
 ## Applies to
 
@@ -33,6 +33,7 @@ Use Microsoft Graph to access a user’s Microsoft account data from within an A
 
 | Version |      Date      |   Comments    |
 | ------- | -------------- | ------------- |
+| 1.2     | June 6, 2018  | Fixed wrong technologies used listing |
 | 1.0     | March 24, 2018 | Initial entry |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
