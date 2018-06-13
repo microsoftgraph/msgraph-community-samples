@@ -19,13 +19,6 @@ This sample shows how to subscribe to Microsoft Graph webhooks using application
 
 ## Installation / Working Instructions
 
-> Create three Flows using the three templates in this order:
-> 1. SampleSyncMSGraphGroupsToSPList.zip
-> 2. SampleMSGraphGroupsListener.zip
-> 3. SampleMSGraphGroupsSubscriber.zip
-
-These set up a severless chain of MS Flows running forever listening to group change events in the tenant and synchronizing them to a SP List.
-
 A SharePoint list with at least Title and groupId field would be needed for the Sync Flow to be properly setup - when flow is configured, the missing columns are dropped.
 
 * Title (single line text)
@@ -34,6 +27,25 @@ A SharePoint list with at least Title and groupId field would be needed for the 
 * visibility (single line text)
 * createdDateTime (datetime)
 * renewedDateTime (datetime)
+
+Create three Flows using the three templates in this order:
+
+> 1. SampleSyncMSGraphGroupsToSPList.zip
+> 2. SampleMSGraphGroupsListener.zip
+> 3. SampleMSGraphGroupsSubscriber.zip
+
+* In Microsoft Flow Web Site - select Import from the top-left corner.
+* One of the zip files and import.
+* After a brief upload, we'll be asked to create a Flow as New, and also set up connection to an existing SharePoint Site (where our list is)
+* Double check the Create List Item and Update List Item actions refreshed correctly.
+* Because two of the workflows are HTTP Request Trigger, after saving go back into the Flow and copy the POST URL of the request - test it with Postman.
+
+These three Flows set up a severless chain of MS Flows running forever listening to group change events in the tenant and synchronizing them to a SP List.
+
+## References
+
+[June 2018 Microsoft Graph Community Call](https://dev.office.com/blogs/microsoft-graph-community-call-june-5-2018)
+[John Liu .NET Blog Post](http://johnliu.net/blog/2018/6/do-bulk-insertupdate-in-microsoft-flow-with-two-simple-elegant-filter-arrays)
 
 ## Contributors
 
@@ -46,4 +58,5 @@ A SharePoint list with at least Title and groupId field would be needed for the 
 | Version |     Date      |   Comments    |
 | ------- | ------------- | ------------- |
 | 1.0     | June 3, 2018  | Initial entry |
+| 2.0     | June 14, 2018 | Updates       |
 
