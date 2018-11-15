@@ -6,10 +6,10 @@ This sample shows how to connect your iOS app to Office 365 using the Microsoft 
 
 ## Sample Details
 
-|               Category               |      Description       |
-| ------------------------------------ | ---------------------- |
-| **Technologies Used**                | iOS, Objective-C, MSAL |
-| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                |
+|               Category               |            Description            |
+| ------------------------------------ | --------------------------------- |
+| **Technologies Used**                | iOS, Objective-C, NXOAuth2Adapter |
+| **[Microsoft Graph SDK(s) Used][1]** | iOS SDK                           |
 
 ## Applies to
 
@@ -33,6 +33,7 @@ This sample shows how to connect your iOS app to Office 365 using the Microsoft 
 
 | Version |     Date      |               Comments                |
 | ------- | ------------- | ------------------------------------- |
+| 1.2     | June 6, 2018  | Fixed wrong technologies used listing |
 | 1.1     | June 1, 2018  | Fixed wrong link to referenced sample |
 | 1.0     | April 2, 2018 | Initial entry                         |
 
