@@ -6,10 +6,10 @@ Code snippets that use the Microsoft Graph to perform common tasks, such as send
 
 ## Sample Details
 
-|               Category               |  Description  |
-| ------------------------------------ | ------------- |
-| **Technologies Used**                | Android, Java |
-| **[Microsoft Graph SDK(s) Used][1]** | Android       |
+|               Category               |     Description     |
+| ------------------------------------ | ------------------- |
+| **Technologies Used**                | Android, Java, MSAL |
+| **[Microsoft Graph SDK(s) Used][1]** | Android             |
 
 ## Applies to
 
@@ -31,9 +31,10 @@ Code snippets that use the Microsoft Graph to perform common tasks, such as send
 
 ## Version history
 
-| Version |      Date      |   Comments    |
-| ------- | -------------- | ------------- |
-| 1.0     | March 24, 2018 | Initial entry |
+| Version |      Date      |               Comments                |
+| ------- | -------------- | ------------------------------------- |
+| 1.1     | June 1, 2018   | Fixed wrong technologies used listing |
+| 1.0     | March 24, 2018 | Initial entry                         |
 
 [1]: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
 

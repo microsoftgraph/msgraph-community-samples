@@ -76,7 +76,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 - [ios-objectivec-connect](./ios-objectivec-connect) - Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
 - [ios-objectivec-imagediscovery-rest](./ios-objectivec-imagediscovery-rest) - Office 365 Microsoft Graph Image Discovery for iOS
 - [ios-objectivec-profile-picture](./ios-objectivec-profile-picture) - Microsoft Graph SDK Profile Picture Sample for iOS
-- [ios-objectiveC-snippets](./ios-objectiveC-snippets) - Office 365 iOS Microsoft Graph Snippets
+- [ios-objectivec-snippets](./ios-objectivec-snippets) - Office 365 iOS Microsoft Graph Snippets
 - [ios-objectivec-snippets-rest](./ios-objectivec-snippets-rest) - Office 365 iOS Microsoft Graph Snippets
 - [ios-swift-connect](./ios-swift-connect) - Office 365 Connect Sample for iOS Using the Microsoft Graph SDK
 - [ios-swift-connect-rest](./ios-swift-connect-rest) - Microsoft Office 365 Connect Sample for iOS Using Microsoft Graph (Swift)
