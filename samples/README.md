@@ -32,6 +32,7 @@ Samples around the Microsoft Graph API demonstrate different capabilities and po
 
 - [android-java-connect-rest](./android-java-connect-rest) - Connect Sample for Android Using the Microsoft Graph SDK
 - [android-java-connect](./android-java-connect) - Connect Sample for Android Using the Microsoft Graph REST endpoint
+- [android-java-msal-sdk-events](./android-java-msal-sdk-events) - Office 365 Simple Calendar for Android - Native MSAL & MSGraph SDKs
 - [android-java-meetingfeedback-rest](./android-java-meetingfeedback-rest) - Office 365 Meeting Feedback sample for Android
 - [android-java-snippets-rest](./android-java-snippets-rest) - Office 365 Meeting Feedback sample for Android
 - [android-java-snippets](./android-java-snippets) - Snippets Sample for Android Using the Microsoft Graph SDK
